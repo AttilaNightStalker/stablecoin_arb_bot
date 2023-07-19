@@ -7,28 +7,10 @@
             "isBridgeToken": false
         },
         {
-            "symbol": "abUSDT",
-            "address": "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
-            "decimals": 9,
-            "isBridgeToken": true
-        },
-        {
             "symbol": "USDC",
             "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "decimals": 6,
             "isBridgeToken": false
-        },
-        {
-            "symbol": "USDCav",
-            "address": "FHfba3ov5P3RjaiLVgh8FTv4oirxQDoVXuoUUDvHuXax",
-            "decimals": 6,
-            "isBridgeToken": true
-        },
-        {
-            "symbol": "abUSDC",
-            "address": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
-            "decimals": 9,
-            "isBridgeToken": true
         },
         {
             "symbol": "PAI",
@@ -61,6 +43,32 @@
             "isBridgeToken": true
         },
         {
+            "symbol": "FRAX",
+            "address": "BCD75RNBHrJJpW4dXVagL5mPjzRLnVZq4YirJdjEYMV7",
+            "decimals": 8,
+            "isBridgeToken": true
+        }
+    ],
+    "stableCoinsx": [
+        {
+            "symbol": "abUSDT",
+            "address": "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
+            "decimals": 9,
+            "isBridgeToken": true
+        },
+        {
+            "symbol": "USDCav",
+            "address": "FHfba3ov5P3RjaiLVgh8FTv4oirxQDoVXuoUUDvHuXax",
+            "decimals": 6,
+            "isBridgeToken": true
+        },
+        {
+            "symbol": "abUSDC",
+            "address": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
+            "decimals": 9,
+            "isBridgeToken": true
+        },
+        {
             "symbol": "BUSDet",
             "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
             "decimals": 8,
@@ -75,12 +83,6 @@
         {
             "symbol": "BUSDbs",
             "address": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
-            "decimals": 8,
-            "isBridgeToken": true
-        },
-        {
-            "symbol": "FRAX",
-            "address": "BCD75RNBHrJJpW4dXVagL5mPjzRLnVZq4YirJdjEYMV7",
             "decimals": 8,
             "isBridgeToken": true
         }
